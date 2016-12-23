@@ -6,7 +6,7 @@ import Footer from  "./Footer";
 export default class Layout extends React.Component{
     constructor(){
         super();
-        this.state = {name:"chandu"};
+        this.state = {name:"Chandra Mohan"};
     }
     changeName(name){
         //console.log("inside changeName");
